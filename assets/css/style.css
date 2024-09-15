@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h5{
+    font-weight: 300;
+}
+
+a{
+    text-decoration: none;
+}
+
+.flex{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar{
+	background-color: #28a745;
+}
+.navbar img{
+	width: 82px;
+}
+
+.content-card{
+	margin: 0 auto;
+}
+
+.texto {
+	font-size: 15px;
+	color: #707070;
+	font-weight: bold;
+}
+
+.precio{
+	font-weight:bolder ;
+	color: #28a745;
+	margin: 0;
+}
+
+
+footer img{
+	width: 80px;
+	height: auto;
+}
